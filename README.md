@@ -78,7 +78,7 @@ To pursue a Master’s degree in Artificial Intelligence / Data Science abroad a
 
 ## 📫 Connect with Me
 
-LinkedIn: [(add your link here) ](https://github.com/Charuhasini30/) 
+LinkedIn: https://www.linkedin.com/in/charuhasinip
 GitHub: https://github.com/Charuhasini30  
 
 ---
