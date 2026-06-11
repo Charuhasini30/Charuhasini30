@@ -70,11 +70,6 @@ My interests lie in:
 
 ---
 
-## 🎯 Career Goal
-
-To pursue a Master’s degree in Artificial Intelligence / Data Science abroad and contribute to impactful research in intelligent systems and real-world AI applications.
-
----
 
 ## 📫 Connect with Me
 
