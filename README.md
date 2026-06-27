@@ -1,81 +1,36 @@
-# Hi, I'm Charuhasini 👋
+About
 
-🎓 AI & Data Science Undergraduate Student  
-📍 India  
-💡 Passionate about Artificial Intelligence, Machine Learning, and Real-world Intelligent Systems  
+I am an undergraduate student in Artificial Intelligence and Data Science with a focus on machine learning systems, applied AI, and data-driven intelligent applications.
 
----
+My academic interests include machine learning, generative AI, predictive analytics, and intelligent systems for real-world applications.
 
-## 🚀 About Me
+I actively work on projects involving AI system design, full-stack integration, and applied machine learning pipelines, with an interest in research-oriented problem solving and scalable intelligent systems.
 
-I am an AI & Data Science student focused on building practical, impactful systems using Machine Learning, Deep Learning, and Data-driven solutions.
+🧠 Technical Skills
 
-My interests lie in:
-- Smart City Systems & Predictive Analytics
-- Applied Machine Learning
-- Generative AI Applications
-- IoT-based Intelligent Systems
+Programming: Python, C++, SQL
+Machine Learning: Scikit-learn, Deep Learning basics, Data Analysis
+Frameworks: FastAPI, React.js (basic), TensorFlow (introductory)
+Tools: Git, GitHub, Jupyter Notebook, Power BI (basic)
 
----
+📌 Projects
+Location-Based Event Planner Chatbot (RAG System)
 
-## 🧠 Technical Skills
+Designed a retrieval-augmented generation system using Gemini 1.5 Flash and Pinecone for context-aware event recommendations. Integrated real-time event APIs and vector-based semantic search for improved response relevance.
 
-**Languages:** Python, C++, SQL  
-**AI/ML:** Machine Learning, Deep Learning, Data Analysis, Model Building  
-**Frameworks:** FastAPI, React, TensorFlow (basic), Scikit-learn  
-**Tools:** Git, GitHub, Jupyter Notebook, Power BI (basic)
+Health Diagnosis System (Machine Learning)
 
----
+Developed a Random Forest-based classification model for multi-condition prediction with feature engineering and evaluation using Scikit-learn.
 
-## 📌 Featured Projects
+Health & Fitness Tracking System (Full Stack)
 
-### 🤖 Location-Based Event Planner Chatbot (AI + RAG System)
-• Architected a Retrieval-Augmented Generation (RAG) based conversational AI system using Gemini 1.5 Flash and Pinecone vector database  
-• Implemented context-aware event recommendations using vector similarity search and LLM-based response generation  
-• Integrated Ticketmaster API for real-time event data and improved conversational UX using sentence-transformers  
-• **Tech Stack:** Python, FastAPI, Pinecone, Gemini API, REST APIs, HTML/CSS/JS  
+Built a full-stack dashboard for tracking health metrics with authentication, analytics, and visualization features.
 
----
+Sign Language Recognition System (Computer Vision)
 
-### 🏥 Health and Fitness Tracker (Full Stack SaaS Application)
-• Developed an interactive dashboard to track user fitness and diet data with real-time visualization  
-• Improved user engagement by 35% through intuitive UI and personalized analytics features  
-• Implemented secure authentication and scalable backend architecture  
-• **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Chart.js  
+Developed a real-time gesture recognition system using OpenCV and MediaPipe for accessibility-focused communication.
 
----
-
-### 🧠 Health Diagnosis and Treatment Recommendation System (Machine Learning)
-• Built a Random Forest-based machine learning model to predict 10+ health conditions  
-• Achieved 92% model accuracy using Scikit-learn and optimized feature engineering techniques  
-• Provided severity scoring and basic treatment suggestions using data-driven analysis  
-• **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
-
----
-
-### 🖐️ Automatic Sign Language Detection System (Computer Vision)
-• Developed a real-time sign language recognition system using computer vision techniques  
-• Implemented gesture detection and classification to convert sign language into readable output  
-• Focused on accessibility and assistive AI applications for hearing-impaired communication  
-• **Tech Stack:** Python, OpenCV, MediaPipe, Machine Learning (CNN/Classification)  
-
----
-
-## 🏆 Experience & Activities
-
-- Hackathon Participant – PSG Tech, Kongu Engineering College  
-- Worked on AI-based real-world problem statements  
-- Active in building project-based learning portfolio  
-- Interested in research-oriented AI applications  
-
----
-
-
-## 📫 Connect with Me
-
-LinkedIn: https://www.linkedin.com/in/charuhasinip
-GitHub: https://github.com/Charuhasini30  
-
----
-
-⭐ Always learning, building, and improving.
+🏆 Experience & Activities
+Hackathon participant 
+AI/ML project development and implementation
+Interest in research internships and applied machine learning systems
