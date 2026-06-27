@@ -1,4 +1,4 @@
-About
+##About
 
 I am an undergraduate student in Artificial Intelligence and Data Science with a focus on machine learning systems, applied AI, and data-driven intelligent applications.
 
